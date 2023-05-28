@@ -34,7 +34,7 @@ The adapter length variations for both pairs of files were determined by subtrac
 
 An estimate of the error profiles for the inserts from the read files was made by using TRUE and INSERT_SIZE attributes from the error profile of each individual read.
 
-|    | Reads Without Error | Substituion | Insertion | Deletion |
+|    | Reads Without Error | Substitution | Insertion | Deletion |
 |----|---------------------|-------------|-----------|----------|
 | R1 | 75.5%               | 12.0%       | 0.1%      | 12.4%    |
 | R2 | 75.6%               | 12.0%       | 0.1%      | 12.3%    |
